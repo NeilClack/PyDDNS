@@ -1,0 +1,57 @@
+{
+    "result": [
+      {
+        "id": "0f101e476e17c76002b7670e63614ef6",
+        "zone_id": "2afbbfdaacb3914d9466920f316ac9f2",
+        "zone_name": "neilclack.com",
+        "name": "neilclack.com",
+        "type": "A",
+        "content": "99.53.207.238",
+        "proxiable": true,
+        "proxied": true,
+        "ttl": 1,
+        "locked": false,
+        "meta": {
+          "auto_added": false,
+          "managed_by_apps": false,
+          "managed_by_argo_tunnel": false
+        },
+        "comment": null,
+        "tags": [],
+        "created_on": "2024-03-03T16:30:16.213786Z",
+        "modified_on": "2024-03-03T16:30:16.213786Z"
+      },
+      {
+        "id": "87ee691c74c3e0a567cf7d7ce7f41b96",
+        "zone_id": "2afbbfdaacb3914d9466920f316ac9f2",
+        "zone_name": "neilclack.com",
+        "name": "neilclack.com",
+        "type": "AAAA",
+        "content": "2600:1700:1221:fa80:f854:de09:7bb5:b5e0",
+        "proxiable": true,
+        "proxied": true,
+        "ttl": 1,
+        "locked": false,
+        "meta": {
+          "auto_added": false,
+          "managed_by_apps": false,
+          "managed_by_argo_tunnel": false
+        },
+        "comment": null,
+        "tags": [],
+        "created_on": "2024-03-03T16:29:29.675296Z",
+        "modified_on": "2024-03-03T16:29:29.675296Z"
+      }
+    ],
+    "success": true,
+    "errors": [],
+    "messages": [],
+    "result_info": {
+      "page": 1,
+      "per_page": 100,
+      "count": 2,
+      "total_count": 2,
+      "total_pages": 1
+    }
+  }
+  
